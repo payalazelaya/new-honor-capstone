@@ -6,11 +6,11 @@
 <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
 </a> -->
 
-# A 2022 Fork Of Stackrole's Foundation
+# A 2022 Fork Of Stackrole's Gatsby Starter Foundation
 
 A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
 
-<!-- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation) -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RVCC-IDMX/gatsby-foundation.git)
 
 Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
 
@@ -45,19 +45,19 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 
 Just click on the **Deploy to Netlify** button.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RVCC-IDMX/gatsby-foundation.git)
 
 This would fork `gatsby-starter-foundation` to your Github account and start building your website on [Netlify](https://netlify.com). Once the deployment is done. Your website will be live and website address would look like **site-name.netlify.app**
 
 ### Further Instructions
 
-- [A 2022 Fork Of Stackrole's Foundation](#a-2022-fork-of-stackroles-foundation)
+- [A 2022 Fork Of Stackrole's Gatsby Starter Foundation](#a-2022-fork-of-stackroles-gatsby-starter-foundation)
   - [👌 Features](#-features)
   - [🚀 Quick Deploy](#-quick-deploy)
     - [Further Instructions](#further-instructions)
   - [⚙ Access to Netlify CMS](#-access-to-netlify-cms)
   - [📝 Editing content and Adding posts](#-editing-content-and-adding-posts)
-  - [⚙ Customing Site details](#-customing-site-details)
+  - [⚙ Customizing Site details](#-customizing-site-details)
   - [🌐 Adding Custom domain to netlify website](#-adding-custom-domain-to-netlify-website)
   - [🖥 Install Locally](#-install-locally)
     - [Start developing](#start-developing)
@@ -68,9 +68,9 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 ## ⚙ Access to Netlify CMS
 
 - Goto app.netlify.com > select your website from the list
-- Goto identity and Click **Enable Identiy**
+- Goto identity and Click **Enable Identity**
 - Click on **Invite Users** and invite yourself. You will receive an email and you need to accept the invitation to set the password.
-- Now headover to Settings > Identity > Services and **Enable Git Gateway**
+- Now head over to Settings > Identity > Services and **Enable Git Gateway**
 - You can also manage who can register and log in to your CMS. Goto Settings > Identity > Registration >Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
 - Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
 
@@ -80,9 +80,9 @@ Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you 
 
 You can select any existing post or page to start editing or add a **New Post**. Have fun :)
 
-## ⚙ Customing Site details
+## ⚙ Customizing Site details
 
-You can find all the website settings such website Site title, Website URL, Google anlaytics etc,.. in your Netlify CMS `Admin > Settings > General`
+You can find all the website settings such website Site title, Website URL, Google analytics etc,.. in your Netlify CMS `Admin > Settings > General`
 
 ## 🌐 Adding Custom domain to netlify website
 
