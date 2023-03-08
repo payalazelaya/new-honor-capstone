@@ -7,4 +7,4 @@ title: About The Website
 
 ![Toys](/assets/teacher-barriers.png "Toys")
 
-F﻿or the past decade, technology has been evolving factor to society in Latin America, where
+F﻿or the past decade, technology has been evolving factor in society in Latin America, where much more people are obtaining technological devices for personal use and being connected to the Internet for news, staying in touch with family members and relatives, getting immersed in social media, and much more.
