@@ -7,4 +7,4 @@ title: About The Website
 
 ![Toys](/assets/teacher-barriers.png "Toys")
 
-F﻿or the past decade,
+F﻿or the past decade, technology has been evolving factor to society in Latin America, where
