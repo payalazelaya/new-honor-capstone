@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-P﻿resenting to users, an informative website as to why the introduction of technology to kids in Latin America is important
+P﻿resenting to users, an informative/educative website as to why the introduction of technology to kids from early grade levels at schools in Latin America is important.
