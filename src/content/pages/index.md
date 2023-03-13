@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Aprendiendo Conmigo
 tagline: Informative/Educational Website
-featuredImage: /assets/internet-activity-in-students.png
+featuredImage: /assets/jhon-david-3wgktdw7xye-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
