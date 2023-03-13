@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Aprendiendo Conmigo
 tagline: Informative/Educational Website
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/internet-activity-in-students.png
 cta:
   ctaText: Know more
   ctaLink: /about
