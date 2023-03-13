@@ -3,8 +3,8 @@
     "title": "Aprendiendo Conmigo",
     "titleTemplate": "%s",
     "description": "",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "siteUrl": "https://aprendiendo-conmigo.netlify.app/",
+    "image": "/assets/favicon.png",
     "iconimage": "/assets/favicon.png",
     "twitterUsername": ""
   },
