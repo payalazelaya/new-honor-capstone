@@ -9,4 +9,4 @@ R﻿ural and remote suburban areas are known to be the areas that do not get muc
 
 
 
-T﻿he large focus point would be how allocating resources to all areas of a country is ensuring equity and fairness of educational opportunities for students and improving the performances of education systems.
+T﻿he large focus point would be how allocating educational resources to all areas of a country is ensuring equity and fairness of educational opportunities for students and improving the performances of education systems.
