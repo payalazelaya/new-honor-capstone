@@ -6,4 +6,4 @@ date: 2023-03-08 22:02
 description: How coding academies targeted at young girls have proven to be a
   success in their interest in technology
 ---
-T﻿he creation of coding academies in Latin America has gained the participation of young girls from institutions to participate and learn what computer science has to offer for them.
+T﻿he creation of coding academies in Latin America has gained the participation of young girls from institutions to participate and learn what computer science has to offer for them. This influence of coding academies or bootcamps coming to Latin America comes from the rising popularity the U.S. has with these programs offered from as early as elementary or middle school all the way up to colleges/universities.
