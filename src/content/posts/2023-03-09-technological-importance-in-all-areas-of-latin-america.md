@@ -9,4 +9,4 @@ R﻿ural and remote suburban areas are known to be the areas that do not get muc
 
 
 
-T﻿he large focus point would be how allocating educational resources to all areas of a country is ensuring equity and fairness of educational opportunities for students and improving the performances of education systems.
+T﻿he large focus point would be how allocating educational resources to all areas of a country is ensuring equity and fairness of educational opportunities for students and improving the performance of education systems. There has been a difference in how high-performing countries in Latin America have allocated more equitable resources to their education systems than semi-high-performing and low-performing countries. These two types of countries share more of their resources with advantaged schools than disadvantaged schools, bringing a negative outlook to the unfair distribution they're seen doing.
