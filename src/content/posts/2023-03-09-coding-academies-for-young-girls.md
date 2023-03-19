@@ -2,7 +2,7 @@
 template: blog-post
 title: Coding Academies for Young Girls
 slug: /resources-for-students
-date: 2023-03-14 21:09
+date: 2023-03-19 15:45
 description: How coding academies targeted at young girls have proven to be a
   success in their interest in technology
 ---
@@ -12,4 +12,6 @@ F﻿or example, in Lima, Peru, a coding bootcamp was filled with many female stu
 
 Y﻿ou might be asking, who even is organizing these kinds of boot camps or academies? Laboratoria, a non-profit Latin American organization, is the one to be in charge of these events, where they target girls from low-income families facing major barriers to let them access higher education for themselves. Laboratoria's purpose essentially is that they emphasize the manner in which girls can build their first websites, apps, and games to continuously develop their skills so that their next step would be to go out into the workforce with their acquired skills in the organization that employers focus on, emerging with confidence in the ability they can settle in confidentially at technological jobs. 
 
-L﻿aboratoria's funding is primarily combined from external donors with contributions from graduates of the organization. Companies who hired graduates of Laboratoria are also paying the organization for their member's devoted membership while being in the organization as gratitude for it. As a result of having graduated from Laboratoria, graduates earn triple the amount of their income that stemmed from within their families, acknowledging that the majority of these young women have jobs as developers.
+L﻿aboratoria's funding is primarily combined from external donors with contributions from graduates of the organization. Companies who hired graduates of Laboratoria are also paying the organization for their member's devoted membership while being in the organization as gratitude for it. As a result of having graduated from Laboratoria, graduates earn triple the amount of their income that stemmed from within their families, acknowledging that the majority of these young women have jobs as developers. 
+
+R﻿aising the expectation of girls to be engaged in technological fields is seen to be a priority in bootcamps that involve promoting the innovation of technology and the advocacy of attaining technological skills for the gender group.
