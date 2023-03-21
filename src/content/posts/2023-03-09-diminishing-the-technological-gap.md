@@ -10,4 +10,4 @@ S﻿tudents over the last couple of years have been provided with devices for th
 
 S﻿tudents across the region are accessing ICT (Information and Communication Technology) at younger ages because of schools influencing the need for digital tech to be introduced to them for their learning and exploration of new concepts. In particular witht he rapid digitalization seen over the last decade, it's influenced how students are learning, doing homework, interacting with classmates, and spending leisure time. 
 
-E﻿ven from a young age, the trend of children exposed to technology has increased due to at what age they accessed a technological device for the first time.
+E﻿ven from a young age, the trend of children exposed to technology has increased due to at what age they accessed a technological device for the first time. This exposure to a technological device demonstrates an increase in Internet usage at schools doubling between 2012 to 2018 for 15 year old students and their usage outside of school also experiencing the same scenario too, where jumping from 1 and a half hours to 3 hours or 3 and a half hours for weekdays and weekends is significant.
