@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Diminishing the Technological Gap
-slug: /tech-gaps
+title: "Positive Digitalization of Latin America "
+slug: /digitalization
 date: 2023-03-21 11:51
-description: "How can countries diminish the tech gap that exists with how
-  society interacts with technology, spanning from all age groups "
+description: "How can the region benefit from the digitalization era that spans
+  all age groups, including students "
 ---
 S﻿tudents over the last couple of years have been provided with devices for their educational use while being at home, yet the impact this has is shown to be worthy of how more engaging they are with their education. In general, digitalization is hopeful in bringing in the possibility of new social inclusion opportunities in the region after sustaining the progress it has established in promoting the movement in the past two decades.
 
