@@ -2,11 +2,11 @@
 template: blog-post
 title: Government Support for Technological Advance
 slug: /government-support
-date: 2023-03-14 12:11
+date: 2023-03-23 12:27
 description: "Governments are the backbone in providing resources and funding
   for how the education system can provide a positive approach to the future of
   both students, teachers, and administrators "
 ---
 G﻿overnment funding is a huge priority when it comes to the educational system of each country and there has been the instance of some countries prioritizing this funding more than others. In general, if the education budget in Latin America were to increase, then many teachers would consider spending on high-quality professional development as it's of high importance. This also includes that in Latin American countries, accessibility of offering professional development programs should be a big focus for the policy intervention, or national mandate, of each country in the region. 
 
-W﻿here does this thinking come from you may ask? First and foremost, most teachers are still accustomed to being trained or taught how to do lectures and require students to do note-taking during lectures, basically a typical old-fashioned school setting that hasn't changed at all.
+W﻿here does this thinking come from you may ask? First and foremost, most teachers are still accustomed to being trained or taught how to do lectures and require students to do note-taking during lectures, basically a typical old-fashioned school setting that hasn't changed at all. There's also other factors as to why teachers aren't "experts" in tech because of the lack of national programs that train teachers about tech and its programs. This is understanding that this training only covers the basis of tech and resources for Internet connectivity and technical support.
