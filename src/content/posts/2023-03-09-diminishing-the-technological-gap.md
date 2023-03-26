@@ -5,6 +5,7 @@ slug: /digitalization
 date: 2023-03-25 22:11
 description: "How can the region benefit from the digitalization era that spans
   all age groups, including students "
+featuredImage: /assets/rodion-kutsaiev-0vgg7cqtwco-unsplash.jpg
 ---
 S﻿tudents over the last couple of years have been provided with devices for their educational use while being at home, yet the impact this has is shown to be worthy of how more engaging they are with their education. In general, digitalization is hopeful in bringing in the possibility of new social inclusion opportunities in the region after sustaining the progress it has established in promoting the movement in the past two decades.
 
