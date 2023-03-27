@@ -2,7 +2,7 @@
 template: blog-post
 title: Technology Education Upon Teachers
 slug: /teacher-support
-date: 2023-03-19 17:58
+date: 2023-03-26 23:41
 description: "How teachers are the head in being support for students to achieve success "
 featuredImage: https://twomonkeystravelgroup.com/wp-content/uploads/2020/01/How-to-Teach-English-in-Latin-America-%E2%80%93-Teach-and-Enjoy1.jpg
 ---
