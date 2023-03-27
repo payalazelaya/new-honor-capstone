@@ -4,7 +4,7 @@ title: Technology Education Upon Teachers
 slug: /teacher-support
 date: 2023-03-26 23:41
 description: "How teachers are the head in being support for students to achieve success "
-featuredImage: https://twomonkeystravelgroup.com/wp-content/uploads/2020/01/How-to-Teach-English-in-Latin-America-%E2%80%93-Teach-and-Enjoy1.jpg
+featuredImage: /assets/how-to-teach-english-in-latin-america-–-teach-and-enjoy1.jpg
 ---
 T﻿eachers are the backbone of student support when it comes to education, but they are the ones to provide reliability when it comes to understanding technology and how it functions so students can use it for in-class and out-of-class learning. Yet, what's hard to know is that a majority of teachers are not given proper technology training to acquire skills that can help their students out with technological questions or problems. 
 
