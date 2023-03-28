@@ -2,7 +2,7 @@
 template: blog-post
 title: Promoting Education Technology In Latin America
 slug: /ed-tech
-date: 2023-03-28 08:32
+date: 2023-03-28 14:45
 description: How can institutions provide and enhance curiosity about technology
   with students is the challenge in promoting education technology at
   institutions
@@ -21,5 +21,5 @@ T﻿hese 5 ways consist of:
 1. **L﻿earner Centered Focuses:** Focusing on what learners (students) need and design experiences plus education programs around those needs is necessary for its engagement and what outcomes it draws out.
 2. **S﻿ystem Collaboration:** Breaking free from the deep interconnectivity of education systems focused on the social, cultural, and economical ties of a particular country and encouraging governments, companies, schools, teachers, and parents to come together to make sustained changes in the education system for better access and outcomes it would have. 
 3. **D﻿ata Informed:** Having sufficient data informs decisions all along the way with respect to initiatives related to learning, thus important stakeholders need to be involved in these decisions so that a shared agreement between classroom and learner measures will help in getting new findings and data for future use.
-4. **A﻿ttract Investment & Promote Partnership:**
-5. **B﻿uild Capacity:**
+4. **A﻿ttract Investment & Promote Partnership:** Governments across the globe are looking into pursuing public and/or private partnerships plus tech companies to help in the growth of education, which Latin America should take into account as well. 
+5. **B﻿uild Capacity:** Digital transformation is getting the capacity of both the people and infrastructure to design and efficiently deliver digital solutions.
