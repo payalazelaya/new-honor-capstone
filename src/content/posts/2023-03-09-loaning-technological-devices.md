@@ -8,4 +8,4 @@ description: How can institutions provide and enhance curiosity about technology
   institutions
 featuredImage: /assets/dele-oke-2rwmlfuuiwy-unsplash.jpg
 ---
-E﻿ducation technology has taken over how opportunities and chances for new experiences for students in Latin America have opened, are achievable, and are promising for their futures. The growth of interest in ed-tech throughout the region has been prevalent, thus it's a critical time to support governments and other contributors in the decision-making process on the program to assist them execute real changes in students' learning.
+E﻿ducation technology has taken over how opportunities and chances for new experiences for students in Latin America have opened, are achievable, and are promising for their futures. The growth of interest in ed-tech throughout the region has been prevalent, thus it's a critical time to support governments and other contributors in the decision-making process of implementing the program to assist in the execution of real changes in students' learning.
