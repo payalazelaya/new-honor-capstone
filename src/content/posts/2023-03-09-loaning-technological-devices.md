@@ -20,6 +20,6 @@ T﻿hese 5 ways consist of:
 
 1. **L﻿earner Centered Focuses:** Focusing on what learners (students) need and design experiences plus education programs around those needs is necessary for its engagement and what outcomes it draws out.
 2. **S﻿ystem Collaboration:** Breaking free from the deep interconnectivity of education systems focused on the social, cultural, and economical ties of a particular country and encouraging governments, companies, schools, teachers, and parents to come together to make sustained changes in the education system for better access and outcomes it would have. 
-3. **D﻿ata Informed: Having sufficient data informs on how to make decisions, so important** 
+3. **D﻿ata Informed:** Having sufficient data informs decisions all along the way with respect to initiatives related to learning, thus important stakeholders need to be involved in these decisions so that a shared agreement between classroom and learner measures will help in getting new findings and data for future use.
 4. **A﻿ttract Investment & Promote Partnership**
 5. **B﻿uild Capacity**
