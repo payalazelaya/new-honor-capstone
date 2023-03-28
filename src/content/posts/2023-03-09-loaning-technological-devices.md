@@ -2,7 +2,7 @@
 template: blog-post
 title: Promoting Education Technology In Latin America
 slug: /ed-tech
-date: 2023-03-28 08:16
+date: 2023-03-28 08:32
 description: How can institutions provide and enhance curiosity about technology
   with students is the challenge in promoting education technology at
   institutions
@@ -14,4 +14,4 @@ T﻿o elaborate a bit on the timeline of the region, over the past year, 2022 to
 
 T﻿hough, there's been instability in how much funding ed-tech goes to the sections of pre-K, K-12, colleges/universities, and the workforce within the past decade.  With unequal values in funding, pre-K remains the section to have the least funding from education and it affects how this age group can be introduced to technology and how it can guide their educational path in the future. Following the pre-K section is the K-12 section which also experiences the same circumstances as also having inconsistent funding in education technology, even though it's the next largest and fastest-growing section of students to change the future. On the other hand, strong growth in funding for higher education a year after COVID occurred due to universities looking for ways for students to learn digitally within hybrid or remote settings. 
 
-E﻿ducation technology's potentiality in the region is considered a "power engine" for growth, but challenges impose before it once it becomes a reality in the region.
+E﻿ducation technology's potentiality in the region is considered a "power engine" for growth, but challenges impose before it once it becomes a reality in the region. Latin America and the Caribbean is one of the lowest-performing
