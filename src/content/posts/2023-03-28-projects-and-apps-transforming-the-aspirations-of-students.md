@@ -6,4 +6,4 @@ date: 2023-03-27 23:41
 description: Getting students to be involved in creating projects and apps
   creates a fortifying environment of learning and curiosity for them
 ---
-P﻿articular countries have assisted in establishing events for students to work on projects and app related to tech.
+P﻿articular countries have assisted in establishing events for students to work on projects and apps related to tech. These special events have made students come together to collaborate with one another in order to establish interest in technology and its innovations.
