@@ -2,7 +2,7 @@
 template: blog-post
 title: Projects and Apps Transforming the Aspirations of Students
 slug: /working-with-children
-date: 2023-03-31 12:28
+date: 2023-03-31 18:42
 description: Getting students to be involved in creating projects and apps
   creates a fortifying environment of learning and curiosity for them
 featuredImage: /assets/coding-camps-feature.jpg
@@ -18,3 +18,5 @@ G﻿ood news actually, is that Argentina's Ministry of Education created a techn
 F﻿or Chile's story, they're also a country that's significantly advanced in education due to its students receiving the highest scores on reading, math, and science exams. Even though students perform very well on standardized exams in charge by the OECD, their performance is still well below the OECD average. Thus, researchers ask if the dynamic use of computer technology could make up for increasing student performance on exams.
 
 M﻿any positive outcomes have been drawn out from implementing computer labs within schools, such as that in the capital of Chile, Santiago, for example. Within the poorer areas of Santiago, 11 public elementary schools set up computer labs for 4th graders to have twice-weekly lab sessions to study math through online programs. Even with the basic use of computer labs at the disposal of students, it can make a difference in their performance on standardized exams, but also let educators explore online programs to enhance students' learning in more exhilarating ways. An online program that became popular with these students is called Espiral Magico, or Spiral Magic in English. Espiral Magico is a math board game that got students engaged in tackling math problems through group competitions and bonding with each other over the game because of the excitement they felt. What made the game even more thrilling was the setting the students were placed in, which was at computer stations with all screens synchronized with one another and with the screens of the other elementary schools, as it was a school-wide competition. An independent teacher separate from the school's staff commentates on the student's progress just like if it was a soccer match, through live video that's broadcast on the whiteboard of each classroom and students manage to see updated rankings of their school's progress too. This provided commentary makes the student participating in the competition rely on the unity of one another and help each other out in solving the math problems presented, influencing their improvement of learning.
+
+T﻿hese scenarios are just a fraction of what kind of flourishing outcomes there can be when students are involved more in these events that promote technology's capabilities of making them engaged and connected. It highlights how when education systems put importance on enhancing students' education through technology, its students can thrive more in having more options of how they can learn subjects in influential ways.
