@@ -32,7 +32,7 @@
     text-decoration: none;
     &:hover {
       color: hsla(0, 0%, 100%, 0.8);
-      text-decoration: underline solid;
+      text-decoration: underline #3E92CC 2px;
     }
   }
   a[aria-current="page"] {
@@ -43,7 +43,7 @@
     font-size: 24px;
     background: none;
     border: none;
-    color: white;
+    color: hsl(0, 0%, 100%);
     padding: 0;
     cursor: pointer;
   }
@@ -96,10 +96,10 @@
 .site-logo {
   font-weight: bold;
   a {
-    color: #fff;
+    color: hsl(0, 0%, 100%);
     text-decoration: none;
     &:hover {
-      color: #fff;
+      color: hsl(26, 85%, 80%);
     }
   }
   @media (max-width: $breakpoint-lg) {
@@ -121,7 +121,7 @@
     margin-bottom: 30px;
   }
   .featured-image {
-    border-radius: 12px;
+    border-radius: 5px;
   }
   @media (max-width: $breakpoint-sm) {
     padding: 30px 0;
@@ -151,7 +151,7 @@
 .post-card {
   padding: 16px;
   border: 1px solid rgba(0, 0, 0, 0.08);
-  background-color: #fff;
+  background-color: hsl(206, 58%, 73%);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
   border-radius: 12px;
   transition: box-shadow 0.3s linear;
