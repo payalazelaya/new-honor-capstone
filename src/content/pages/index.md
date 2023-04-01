@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-P﻿resenting an informative/educative website as to why the introduction of technology to kids from early grade levels till higher education at schools in Latin America is important.
+Presenting an informative/educative website as to why the introduction of technology to kids from early grade levels till higher education at schools in Latin America is important.
