@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Aprendiendo Conmigo
 tagline: Informative/Educational Website
-featuredImage: /assets/jhon-david-3wgktdw7xye-unsplash.jpg
+featuredImage: /assets/jhon-david-3wgktdw7xye-unsplash-1-.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
