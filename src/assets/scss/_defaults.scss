@@ -9,12 +9,9 @@ body {
   padding: 0;
 }
 body {
-  font-family: var(--font-family);
+  font-family: var(--font-body);
   font-size: 18px;
   background-color: hsl(60, 49%, 88%);
-}
-code {
-  font-family: var(--font-family-mono);
 }
 main {
   p {
