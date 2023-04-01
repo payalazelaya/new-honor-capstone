@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Positive Digitalization of Latin America "
+title: "Positive Digitalization within Latin America "
 slug: /digitalization
 date: 2023-03-31 20:16
 description: "How can the region benefit from the digitalization era that spans
