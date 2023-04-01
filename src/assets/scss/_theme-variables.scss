@@ -15,13 +15,13 @@ $breakpoint-xl: 1200px;
   --font-family: "Expressway", sans-serif;
   --font-size-small: 12px;
 
-  --home-link-color: #d4d4d4;
+  --home-link-color: hsl(0, 0%, 100%);
   --home-link-hover-color: var(--primary-color);
 
   --button-color: #e5c3d3;
   --button-alternate-color: #5c2941;
 
-  --post-link-color: #0f070b;
+  --post-link-color: hsl(330, 36%, 4%);
 
   --nav-link-hover-bg: #111;
   --text-color-meta: rgba(0, 0, 0, 0.5);

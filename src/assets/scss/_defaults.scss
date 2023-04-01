@@ -9,7 +9,7 @@ body {
   padding: 0;
 }
 body {
-  font-family: var(--font-body);
+  font-family: var(--font-family);
   font-size: 18px;
   background-color: hsl(60, 49%, 88%);
 }
@@ -20,7 +20,7 @@ main {
 }
 a {
   color: var(--home-link-color);
-  text-decoration: none;
+  text-decoration: underline #7db0fc 2px;
   &:hover {
     color: var(--home-link-hover-color);
   }
