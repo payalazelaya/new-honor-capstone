@@ -2,7 +2,7 @@
 template: blog-post
 title: "Positive Digitalization of Latin America "
 slug: /digitalization
-date: 2023-03-25 22:11
+date: 2023-03-31 20:16
 description: "How can the region benefit from the digitalization era that spans
   all age groups, including students "
 featuredImage: /assets/rodion-kutsaiev-0vgg7cqtwco-unsplash.jpg
@@ -15,4 +15,6 @@ E﻿ven from a young age, the trend of children exposed to technology has increa
 
 M﻿any factors contribute to why Latin America and the Caribbean face this situation, which most of them are covered more in the other blogs of the website. To touch briefly upon them, most of these factors consist of physical barriers, proper tech-based training, allocating resources to all areas of a country to maintain educational equity, and much more. 
 
-W﻿hat's most important though, is that in an era of digitalization that's going on in Latin America, internet connectivity should be a priority for students for their building learning experience. To be able to learn at home and work on online assignments to better grasp concepts on their own, it's another format in how online learning demonstrates it's positives in educational success.
+W﻿hat's most important though, is that in an era of digitalization that's going on in Latin America, internet connectivity should be a priority for students for their building learning experience. To be able to learn at home and work on online assignments to better grasp concepts on their own, it's another format in how online learning demonstrates its positives in educational success.
+
+Online learning provides the beneficial opportunity for students to have access to educational channels via video-hosting platforms, government-sponsored learning channels available via their own appropriate website or channel (like PBS Kids in the U.S.), and the availability to opt-in mobile learning.
